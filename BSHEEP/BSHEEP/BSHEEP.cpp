@@ -8,6 +8,7 @@ int main() {
 	int num_of_sheep = 0;
 	cin >> num_tests;
 	cout << endl;
+	cout << "test" << endl;
 	
 		
 	while (counter != num_tests) {
