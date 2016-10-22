@@ -1,3 +1,7 @@
 ﻿  BSHEEP.cpp
-  LINK : C:\Users\jaoronia\Documents\BSHEEP\BSHEEP\Debug\BSHEEP.exe not found or not built by the last incremental link; performing full link
+c:\users\jaoronia\documents\bsheep\bsheep\bsheep\bsheep.cpp(46): warning C4018: '<': signed/unsigned mismatch
+c:\users\jaoronia\documents\bsheep\bsheep\bsheep\bsheep.cpp(59): warning C4018: '<': signed/unsigned mismatch
+c:\users\jaoronia\documents\bsheep\bsheep\bsheep\bsheep.cpp(68): warning C4018: '<': signed/unsigned mismatch
+c:\users\jaoronia\documents\bsheep\bsheep\bsheep\bsheep.cpp(71): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\jaoronia\documents\bsheep\bsheep\bsheep\bsheep.cpp(74): warning C4018: '<': signed/unsigned mismatch
   BSHEEP.vcxproj -> C:\Users\jaoronia\Documents\BSHEEP\BSHEEP\Debug\BSHEEP.exe
